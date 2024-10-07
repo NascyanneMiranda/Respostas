@@ -10,9 +10,9 @@ function verificarAprovacao() {
 
     // Verificando se o aluno foi aprovado ou reprovado
     if (media >= 7) {
-        console.log("Aprovado");
+        console.log("Aprovado ;)");
     } else {
-        console.log("Reprovado");
+        console.log("Reprovado :(");
     }
 }
 
